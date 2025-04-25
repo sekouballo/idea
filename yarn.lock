@@ -307,26 +307,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@ossph/idea-parser@0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@ossph/idea-parser/-/idea-parser-0.1.4.tgz#c2ec0cd4c5d8a6a1e846d1f9342a4485c0931291"
-  integrity sha512-yO7BoQLeko+uIE40jO0dnxtD14H3pfz6moa8sQxwmqEuuK/nWxrAEoCAMNaOo/rANtqCC/UpEhgrnsbRtaa6CQ==
-
-"@ossph/idea-transformer@0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@ossph/idea-transformer/-/idea-transformer-0.1.4.tgz#4ed8b37ed6cb04aec06bea5fc2dca16b19b4116b"
-  integrity sha512-Sou8ZC98uJtRV9uH7yOwQIkNeHWWUYdP+a7u5LKRYYrT7eHQUO/MsN+TPryc+4gJ8be+QvNwfnwgeDd1JUaYyg==
-  dependencies:
-    "@ossph/idea-parser" "0.1.4"
-
-"@ossph/idea@0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@ossph/idea/-/idea-0.1.4.tgz#5ac5bb4b9f7c9ba8617ee7ddc3cfe3dc3f3e4c95"
-  integrity sha512-fRuGE/ajqL7V0jKmaKpZsxfVIC371Qsg5X5EgopzGLdpneHCWOe2MbbfEvxIGDGq4ZhJW4e4tfcws13PuDBLVg==
-  dependencies:
-    "@ossph/idea-parser" "0.1.4"
-    "@ossph/idea-transformer" "0.1.4"
-
 "@sinclair/typebox@^0.27.8":
   version "0.27.8"
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.8.tgz#6667fac16c436b5434a387a34dedb013198f6e6e"
